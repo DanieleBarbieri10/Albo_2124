@@ -37,7 +37,6 @@ NB: che le immagini siano tutte JPG di dimensione massima 256x256
 |![](./data/FrancescoPieruccini/FrancescoPieruccini.jpg) | Francesco Pieruccini |  | GutsMan | [GitHub](https://github.com/FrancescoPieruccini)|
 |![](./data/FrancescoNannini/NanniniFrancesco.jpg) | Francesco Nannini |  | Bombman | [GitHub](https://github.com/BelethThynemenos)|
 |![](./data/AndreaVanghi/AndreaVanghi.jpg) | Andrea Vanghi | Game Design | Gutsman | [GitHub](https://github.com/VanghiAndrea)|
-|![]()| Daniele Barbieri | Concept Art | Team Elecman | [GitHub](https://github.com/DanieleBarbieri10)|
 
 
 ## Concept Art
